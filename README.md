@@ -16,4 +16,4 @@
 
 9.- git add -u  #hace commit de las cosas que están modificándose en el repo
 
-
+10.- ver git push
