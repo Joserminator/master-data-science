@@ -1,0 +1,15 @@
+    #  Notas para implementar InfluxDB & Grafana en servidor local
+
+.- pte. propiedades de serv disponibles
+.- incluir path servidor a la máquina de logs para poder compartirlo
+.- alimentación de datos: gestión de ficheros automatizada por shell, ver autoimportaciones para InfluxDB, ojo alertas
+.- frontend con grafana cuando BD vaya fino para dar salida a por link interno
+
+
+.- Ubuntu desktop mejor que server para empezar, más documentación y más sencillo
+.- Estimar almacenamiento necesario para particionar de primeras un raid
+.- ver otras opciones con libs/pluggins a as400 & Grafana (MariaDB , ...?)
+
+.- a valorar: usarlo como almacenamiento y enlace entre Logs de automatismos y red oficina para darle salida por Klipfolio.
+
+OJO que hay conectores GIT-HUB <--> KLIPFOLIO
